@@ -37,13 +37,34 @@ Just add your logo, colors, and content — then ship.
 
 ---
 
-## 📦 All 20 templates in the bundle
+## 📦 All 20 templates — live demos
 
-The **[20 Website Templates Bundle ($79)](https://cengokurtoglu.gumroad.com/l/vuhstz)** includes the 8 above plus:
+Every template below is **live** — click any demo to preview it in your browser. The 12 templates beyond the featured 8 ship in the bundle.
 
-Dental Clinic · Restaurant Reservation · Barber & Salon · Photography Portfolio · Event & Conference · Web3 / Crypto · Mobile App Landing · Newsletter / Creator · Hotel Booking · Construction · Law Firm · Personal CV
+| # | Template | Best for | Live Demo |
+|---|---|---|---|
+| 01 | **Modern SaaS** Landing | SaaS / startup product page | [Demo](https://01-modern-saas.vercel.app) |
+| 02 | **AI Startup** Landing | AI tool / model launch | [Demo](https://02-ai-startup.vercel.app) |
+| 03 | **Digital Agency** | Agency / studio site | [Demo](https://03-digital-agency.vercel.app) |
+| 04 | **Restaurant & Cafe** | Menu + hours + location | [Demo](https://04-restaurant-cafe.vercel.app) |
+| 05 | **Real Estate** | Listings / property showcase | [Demo](https://05-real-estate.vercel.app) |
+| 06 | **Fitness & Gym** | Gym / coach / classes | [Demo](https://06-fitness-gym.vercel.app) |
+| 07 | **E-commerce Store** | Product catalog landing | [Demo](https://07-ecommerce-store.vercel.app) |
+| 08 | **Online Course** | Course / cohort / LMS landing | [Demo](https://08-online-course.vercel.app) |
+| 09 | **Dental Clinic** | Clinic / medical practice | [Demo](https://09-dental-clinic.vercel.app) |
+| 10 | **Restaurant Reservation** | Booking-first restaurant | [Demo](https://10-restaurant-reservation.vercel.app) |
+| 11 | **Barber & Salon** | Barber / hair / beauty | [Demo](https://11-barber-salon.vercel.app) |
+| 12 | **Photography Portfolio** | Photographer / creative | [Demo](https://12-photography-portfolio.vercel.app) |
+| 13 | **Event & Conference** | Conference / meetup / summit | [Demo](https://13-event-conference.vercel.app) |
+| 14 | **Web3 / Crypto** | Token / protocol / dApp | [Demo](https://14-web3-crypto.vercel.app) |
+| 15 | **Mobile App** Landing | iOS / Android app launch | [Demo](https://15-mobile-app.vercel.app) |
+| 16 | **Newsletter / Creator** | Newsletter / personal brand | [Demo](https://16-newsletter-creator.vercel.app) |
+| 17 | **Hotel Booking** | Hotel / resort / stays | [Demo](https://17-hotel-booking.vercel.app) |
+| 18 | **Construction** | Contractor / building firm | [Demo](https://18-construction.vercel.app) |
+| 19 | **Law Firm** | Legal / professional services | [Demo](https://19-law-firm.vercel.app) |
+| 20 | **Personal CV** | Portfolio / resume / freelancer | [Demo](https://20-personal-cv.vercel.app) |
 
-That's **20 production-ready Next.js + Tailwind templates for $79** — vs. $380 if bought individually. **[Get the bundle →](https://cengokurtoglu.gumroad.com/l/vuhstz)**
+That's **20 production-ready Next.js + Tailwind templates for $79** — vs. $380 if bought individually. **[Get the bundle →](https://cengokurtoglu.gumroad.com/l/vuhstz)** (or any single template for **$19**).
 
 ---
 
@@ -62,7 +83,7 @@ Deploy to **Vercel**: push to a Git repo and import it, or run `vercel`. Update 
 
 ## 🏷️ Keywords
 
-Next.js template · Tailwind CSS template · React website template · Next.js landing page · SaaS website template · TypeScript website template · responsive website template · App Router template · Vercel template · startup website template
+Next.js template · Tailwind CSS template · React website template · Next.js landing page · SaaS website template · TypeScript website template · responsive website template · App Router template · Vercel template · startup website template · restaurant website template · real estate website template · agency website template · portfolio website template · law firm website template · dental clinic website template · hotel booking template · event website template · crypto / web3 landing page
 
 ---
 
