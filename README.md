@@ -68,6 +68,24 @@ That's **20 production-ready Next.js + Tailwind templates for $79** — vs. $380
 
 ---
 
+## 📚 Developer & founder guides (digital products)
+
+Beyond the templates, the same store ships **7 battle-tested guides and swipe files** for indie hackers, SaaS founders, and freelance developers who want to ship and sell faster. Each is a focused, copy-paste resource — not a 200-page e-book you'll never finish.
+
+| Product | What it is | Best for | Get it |
+|---|---|---|---|
+| **Supabase SaaS Starter Guide** | Build your backend the right way — auth, RLS, schema, and production patterns for a Supabase-powered SaaS | Founders building a SaaS backend on Supabase | [$29](https://cengokurtoglu.gumroad.com/l/lufej) |
+| **100 Validated Micro-SaaS Ideas** | 100 vetted ideas, each with target user, revenue model & difficulty score | Indie hackers deciding what to build next | [$15](https://cengokurtoglu.gumroad.com/l/gruftp) |
+| **The Cinematic AI Prompt Masterclass** | 50+ copy-paste prompt templates for cinematic AI image & video generation | AI creators, marketers, video makers | [$19](https://cengokurtoglu.gumroad.com/l/likuxj) |
+| **AI Marketing Copy Templates** | Copy-paste AI prompts that produce high-converting marketing copy | Marketers & founders writing landing pages and ads | [$19](https://cengokurtoglu.gumroad.com/l/zsafc) |
+| **Cold Email Masterclass** | Templates & sequences that actually get replies — outreach that books meetings | Freelancers & B2B founders doing cold outreach | [$19](https://cengokurtoglu.gumroad.com/l/pinsip) |
+| **The SaaS Launch Swipe File** | 40+ copy-paste launch templates — emails, posts, pages | Anyone launching a SaaS or digital product | [$19](https://cengokurtoglu.gumroad.com/l/nsxvw) |
+| **Next.js + Supabase Launch Checklist** | 60 checks to run before you ship — security, SEO, performance, billing | Developers shipping a Next.js + Supabase app to production | [$12](https://cengokurtoglu.gumroad.com/l/xjnmxt) |
+
+Browse everything in one place at the **[full store → cengokurtoglu.gumroad.com](https://cengokurtoglu.gumroad.com)**.
+
+---
+
 ## 🚀 Quick start (after purchase)
 
 ```bash
@@ -83,7 +101,7 @@ Deploy to **Vercel**: push to a Git repo and import it, or run `vercel`. Update 
 
 ## 🏷️ Keywords
 
-Next.js template · Tailwind CSS template · React website template · Next.js landing page · SaaS website template · TypeScript website template · responsive website template · App Router template · Vercel template · startup website template · restaurant website template · real estate website template · agency website template · portfolio website template · law firm website template · dental clinic website template · hotel booking template · event website template · crypto / web3 landing page
+Next.js template · Tailwind CSS template · React website template · Next.js landing page · SaaS website template · TypeScript website template · responsive website template · App Router template · Vercel template · startup website template · restaurant website template · real estate website template · agency website template · portfolio website template · law firm website template · dental clinic website template · hotel booking template · event website template · crypto / web3 landing page · buy Next.js template · Next.js template bundle · Supabase SaaS starter · Supabase SaaS guide · micro-SaaS ideas · cold email templates · AI marketing copy prompts · cinematic AI prompts · SaaS launch swipe file · Next.js Supabase production checklist · indie hacker resources · ship SaaS fast
 
 ---
 
